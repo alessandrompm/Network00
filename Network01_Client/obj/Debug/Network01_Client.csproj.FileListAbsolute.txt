@@ -1,0 +1,11 @@
+C:\Users\alxey\Desktop\Aiv.Lessons.II\Networking\Network00\Network01_Client\bin\Debug\Network01_Client.exe.config
+C:\Users\alxey\Desktop\Aiv.Lessons.II\Networking\Network00\Network01_Client\bin\Debug\Network01_Client.exe
+C:\Users\alxey\Desktop\Aiv.Lessons.II\Networking\Network00\Network01_Client\bin\Debug\Network01_Client.pdb
+C:\Users\alxey\Desktop\Aiv.Lessons.II\Networking\Network00\Network01_Client\obj\Debug\Network01_Client.exe
+C:\Users\alxey\Desktop\Aiv.Lessons.II\Networking\Network00\Network01_Client\obj\Debug\Network01_Client.pdb
+F:\Network00\Network01_Client\bin\Debug\Network01_Client.exe.config
+F:\Network00\Network01_Client\obj\Debug\Network01_Client.exe
+F:\Network00\Network01_Client\obj\Debug\Network01_Client.pdb
+C:\Users\alex_\Desktop\Network00\Network01_Client\bin\Debug\Network01_Client.exe.config
+C:\Users\alex_\Desktop\Network00\Network01_Client\obj\Debug\Network01_Client.exe
+C:\Users\alex_\Desktop\Network00\Network01_Client\obj\Debug\Network01_Client.pdb

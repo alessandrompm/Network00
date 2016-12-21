@@ -1,0 +1,8 @@
+C:\Users\alxey\Desktop\Aiv.Lessons.II\Networking\Network00\Network01_Server\bin\Debug\Network01_Server.exe.config
+C:\Users\alxey\Desktop\Aiv.Lessons.II\Networking\Network00\Network01_Server\bin\Debug\Network01_Server.exe
+C:\Users\alxey\Desktop\Aiv.Lessons.II\Networking\Network00\Network01_Server\bin\Debug\Network01_Server.pdb
+C:\Users\alxey\Desktop\Aiv.Lessons.II\Networking\Network00\Network01_Server\bin\Debug\Network01_Shared.dll
+C:\Users\alxey\Desktop\Aiv.Lessons.II\Networking\Network00\Network01_Server\bin\Debug\Network01_Shared.pdb
+C:\Users\alxey\Desktop\Aiv.Lessons.II\Networking\Network00\Network01_Server\obj\Debug\Network01_Server.csprojResolveAssemblyReference.cache
+C:\Users\alxey\Desktop\Aiv.Lessons.II\Networking\Network00\Network01_Server\obj\Debug\Network01_Server.exe
+C:\Users\alxey\Desktop\Aiv.Lessons.II\Networking\Network00\Network01_Server\obj\Debug\Network01_Server.pdb

@@ -1,0 +1,4 @@
+C:\Users\alxey\Desktop\Aiv.Lessons.II\Networking\Network00\Network01_Shared\bin\Debug\Network01_Shared.dll
+C:\Users\alxey\Desktop\Aiv.Lessons.II\Networking\Network00\Network01_Shared\bin\Debug\Network01_Shared.pdb
+C:\Users\alxey\Desktop\Aiv.Lessons.II\Networking\Network00\Network01_Shared\obj\Debug\Network01_Shared.dll
+C:\Users\alxey\Desktop\Aiv.Lessons.II\Networking\Network00\Network01_Shared\obj\Debug\Network01_Shared.pdb
